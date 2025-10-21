@@ -1,5 +1,8 @@
 
 # 🏥 HealthCare Power BI Dashboard
+## 🖼️ Preview
+
+![Dashboard Preview](healthcare-dashboard.png)
 
 ## 📊 Project Overview
 This Power BI project, **HealthCare Dashboard**, aims to analyze and visualize medical data within a hospital environment.  
@@ -29,10 +32,6 @@ It provides insights into **diagnoses, procedures, treatment costs, and patient 
 - **DAX** and **Power Query** for data transformation and metrics
 
 ---
-
-## 🖼️ Preview
-
-![Dashboard Preview](healthcare-dashboard.png)
 
 > *(Add your screenshot inside an `/images` folder with the same name.)*
 
